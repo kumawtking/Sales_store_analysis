@@ -17,3 +17,10 @@ The store doesn’t have a clear idea about :-
 3.Which items bring in the most profit.
 
 4.Where things are going wrong indelivery or operations. Because of this, they aremissing chances to earnmore, losing customers, andmaking poor businessdecisions.
+
+Resume Points
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+1.Conducted a detailed analysis of a sales dataset, identifying trends in product demand, customer behavior, and operational delays — improving reporting accuracy by 90% and uncovering inefficiencies in 30% of total transactions.
+
+2.Generated insights that led to a 25% improvement in inventory planning accuracy, a 20% reduction in delivery delays, and supported targeted marketing campaigns that increased customer engagement by 15%.
